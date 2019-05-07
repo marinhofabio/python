@@ -1,0 +1,11 @@
+#!/usr/bin/python
+
+x='    milk e shake    '
+
+print(x.strip())
+
+print(x.upper())
+
+print(x.replace('m','P'))
+
+print(len(x))

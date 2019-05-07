@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+if 5 > 2:
+	print"ok"

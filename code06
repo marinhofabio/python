@@ -1,0 +1,13 @@
+#!/usr/bin/python
+
+a='aline'
+b='bilu'
+m='milk'
+s='shake'
+i='inhame'
+
+print(a)
+print(b)
+print(m)
+print(s)
+print(i)

@@ -1,0 +1,4 @@
+#!/usr/bin/python
+
+for x in 'banada':
+	print(x)
