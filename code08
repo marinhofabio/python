@@ -2,4 +2,4 @@
 
 times=['flamengo','vasco','fluminense','botafogo']
 for a in times:	
-  print(a.upper())
+	print(a.upper())

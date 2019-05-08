@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
 x=' hello   World '
-print(strip.x)
+print(x.strip())

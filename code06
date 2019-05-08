@@ -6,8 +6,8 @@ m='milk'
 s='shake'
 i='inhame'
 
-print(a)
-print(b)
-print(m)
-print(s)
-print(i)
+print(a.upper())
+print(b.upper())
+print(m.upper())
+print(s.upper())
+print(i.upper())
