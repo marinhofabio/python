@@ -1,7 +1,7 @@
 #!/usr/bin/python
 
 def fmarinho():
-	x='milk'
-	print(x.upper())
+  x='milk'
+  print(x.upper())
 
 fmarinho()

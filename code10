@@ -2,6 +2,6 @@
 
 times=['flamengo','vasco','fluminense','botafogo']
 for i in times:
-	print(i.upper())
-	if i == 'vasco':
-		break
+  print(i.upper())
+  if i == 'vasco':
+    break
