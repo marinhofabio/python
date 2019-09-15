@@ -1,0 +1,12 @@
+#!/usr/bin/env python
+
+x=5
+print(x)
+y="Hello, World!"
+print(y)
+
+print(type(x))
+print(type(y))
+
+if 5 > 2:
+  print("Five is greater than two!")

@@ -1,0 +1,25 @@
+#!/usr/bin/env python
+
+x = 1
+y = 2.8
+z = 1j
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+int_x = 1
+int_y = 35656222554887711
+int_z = -3255522
+
+print(type(int_x))
+print(type(int_y))
+print(type(int_z))
+
+float_x = 1.10
+float_y = 1.0
+float_z = -35.59
+
+print(type(float_x))
+print(type(float_y))
+print(type(float_z))

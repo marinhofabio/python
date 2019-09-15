@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+
+print("Hello")
+print('Hello')
+
+a = " hello "
+print(a)
+
+
+a = "Hello, world!"
+print(a[1])
+print(a[2])
+
+
+b = "hello, world!"
+print(b[2:5])

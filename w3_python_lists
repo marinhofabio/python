@@ -1,0 +1,23 @@
+#!/usr/bin/env python
+
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+
+print(thislist[0])
+print(thislist[1])
+print(thislist[2])
+
+
+times = ["flamengo", "vasco", "fluminense", "botafogo"]
+times[1] = "America"
+print(times)
+
+
+directories=["/","/boot","/etc","/home","/tmp"]
+for x in directories:
+  print(x)
+
+print(len(directories))
+
+directories.append("/usr")
+print(directories)

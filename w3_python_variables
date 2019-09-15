@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+
+x=10
+y="fabio"
+
+print(x)
+print(y)
+
+x,y,z = "Orange","Banana","Cherry"
+
+print(x)
+print(y)
+print(z)
+
+x=y=z= "Laranja"
+print(x)
+print(y)
+print(z)
+
+i="awesome"
+print("Python is " + i)
+
+a = " Fabio "
+b = " Marinho "
+c = " Do Nascimento"
+d = a + b + c
+print(d)

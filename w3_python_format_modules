@@ -1,0 +1,22 @@
+#!/usr/bin/env python
+
+# format module examples
+
+# ex1
+age = 38
+txt = "my name is fabio, and I am {} "
+print(txt.format(age))
+
+# ex2
+quantity = 3
+itemno = 600
+price = 49.95
+myorder = "I want {} pieces of item {} for dollars."
+print(myorder.format(quantity,itemno, price))
+
+# ex3
+quantity = 4
+itemno= 67
+price = 45.50
+myorder = "I want to pay {2} dollars for {0} pieces of item {1}."
+print(myorder.format(quantity,itemno, price))
